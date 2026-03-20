@@ -1,0 +1,7 @@
+print("Hello, World!")
+
+num = 10
+
+usuario = input("Ingrese un número: ")
+
+print("El número ingresado es: ", usuario ," y el número fijo es: ", num)
